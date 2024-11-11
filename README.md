@@ -86,7 +86,7 @@ Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/edoc
 
 
 
-DATABASE NAME: 'edoc'
+DATABASE NAME: 'mydatabase'
 
 # BUILDIN USER ACCOUNTS OF THIS PROJECT
 
